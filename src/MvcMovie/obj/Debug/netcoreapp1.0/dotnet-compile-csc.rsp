@@ -240,6 +240,7 @@
 "C:\Users\Chris and Jennifer\Documents\Visual Studio 2015\Projects\MvcMovie\src\MvcMovie\Data\Migrations\ApplicationDbContextModelSnapshot.cs"
 "C:\Users\Chris and Jennifer\Documents\Visual Studio 2015\Projects\MvcMovie\src\MvcMovie\Models\ApplicationUser.cs"
 "C:\Users\Chris and Jennifer\Documents\Visual Studio 2015\Projects\MvcMovie\src\MvcMovie\Models\Movie.cs"
+"C:\Users\Chris and Jennifer\Documents\Visual Studio 2015\Projects\MvcMovie\src\MvcMovie\Models\SeedData.cs"
 "C:\Users\Chris and Jennifer\Documents\Visual Studio 2015\Projects\MvcMovie\src\MvcMovie\Models\AccountViewModels\ExternalLoginConfirmationViewModel.cs"
 "C:\Users\Chris and Jennifer\Documents\Visual Studio 2015\Projects\MvcMovie\src\MvcMovie\Models\AccountViewModels\ForgotPasswordViewModel.cs"
 "C:\Users\Chris and Jennifer\Documents\Visual Studio 2015\Projects\MvcMovie\src\MvcMovie\Models\AccountViewModels\LoginViewModel.cs"

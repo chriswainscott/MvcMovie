@@ -92,6 +92,9 @@ namespace MvcMovie
                     name: "default",
                     template: "{controller=Home}/{action=Index}/{id?}");
             });
+
+            //Seed Initializer
+            SeedData.Initialize(app.ApplicationServices);
         }
     }
 }
